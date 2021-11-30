@@ -1,5 +1,12 @@
 # Intermediate Pytorch
 by Ray Khorsandi
+
+| Topic | Tutorial |
+|-------|----------|
+| PyTorch Tensor Numerics |  NA |
+| Visualization w/Matplotlib | NA |
+
+
 | Topic | Demo | Exercise | Solution |
 |---------|-------------|-------------|-------------|
 | PyTorch Tensor Numerics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/Pytorch-01/blob/main/demos/Demo_PyTorch_Tensors.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/Pytorch-01/blob/main/exercises/Exercise_PyTorch_Tensors.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/Pytorch-01/blob/main/exercises/Solution_PyTorch_Tensors.ipynb) |
