@@ -3,8 +3,14 @@ by Ray Khorsandi
 
 | Topic | Tutorial |
 |-------|----------|
-| PyTorch Tensor Numerics |  NA |
-| Visualization w/Matplotlib | NA |
+| Quick Start |  NA |
+| Tensors | NA |
+|  Data |  NA |
+| Model | NA |
+| Autograd |  NA |
+| Optimization | NA |
+| Save/Load | NA |
+| Inference | NA |
 
 
 | Topic | Demo | Exercise | Solution |
