@@ -3,14 +3,15 @@ by Ray Khorsandi
 
 | Topic | Tutorial |
 |-------|----------|
-| Quick Start |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/Pytorch-01/blob/main/demos/Demo_PyTorch_Tensors.ipynb)  |
-| Tensors | NA |
-|  Data |  NA |
-| Build Model | NA |
-| Autograd |  NA |
-| Optimization | NA |
-| Save/Load Model | NA |
-| Inference | NA |
+| Quick Start |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/pytorch-02/blob/main/Tutorial/1-quickstart_tutorial.ipynb)  |
+| Tensors |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/pytorch-02/blob/main/Tutorial/2-tensorqs_tutorial.ipynb) |
+|  Data |   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/pytorch-02/blob/main/Tutorial/3-data_tutorial.ipynb) |
+| Transforms |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/pytorch-02/blob/main/Tutorial/4-transforms_tutorial.ipynb) |
+| Build Model |   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/pytorch-02/blob/main/Tutorial/5-buildmodel_tutorial.ipynb) |
+| Autograd  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/pytorch-02/blob/main/Tutorial/6-autogradqs_tutorial.ipynb) |
+| Optimization  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/pytorch-02/blob/main/Tutorial/7-optimization_tutorial.ipynb) |
+| Save/Load Model |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/pytorch-02/blob/main/Tutorial/8-saveloadrun_tutorial.ipynb) |
+| Inference | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/pytorch-02/blob/main/Tutorial/9-inference.ipynb) |
 
 
 | Topic | Demo | Exercise | Solution |
