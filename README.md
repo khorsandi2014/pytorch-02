@@ -3,13 +3,13 @@ by Ray Khorsandi
 
 | Topic | Tutorial |
 |-------|----------|
-| Quick Start |  NA |
+| Quick Start |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/Pytorch-01/blob/main/demos/Demo_PyTorch_Tensors.ipynb)  |
 | Tensors | NA |
 |  Data |  NA |
-| Model | NA |
+| Build Model | NA |
 | Autograd |  NA |
 | Optimization | NA |
-| Save/Load | NA |
+| Save/Load Model | NA |
 | Inference | NA |
 
 
