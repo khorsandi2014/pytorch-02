@@ -3,7 +3,7 @@ by Ray Khorsandi
 
 | Topic | Tutorial |
 |-------|----------|
-| Quick Start |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/pytorch-02/blob/main/Tutorial/1-quickstart_tutorial.ipynb)  |
+| Quickstart |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/pytorch-02/blob/main/Tutorial/1-quickstart_tutorial.ipynb)  |
 | Tensors |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/pytorch-02/blob/main/Tutorial/2-tensorqs_tutorial.ipynb) |
 |  Data |   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/pytorch-02/blob/main/Tutorial/3-data_tutorial.ipynb) |
 | Transforms |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/pytorch-02/blob/main/Tutorial/4-transforms_tutorial.ipynb) |
